@@ -1,4 +1,4 @@
-# com.ironhack.lab.1.04
+# lab-java-core-arrays
 
 1. Write a method in Java to get the difference between the largest and smallest values in an array of integers. The length of the array must be 1 and above.
 
